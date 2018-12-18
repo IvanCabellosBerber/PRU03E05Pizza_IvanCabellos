@@ -1,7 +1,7 @@
 public enum TipusPizza {
 
-    Margarita,
-    Quatre_formatges,
+    margarita,
+    quatre_formatges,
     funghi
 
 }
